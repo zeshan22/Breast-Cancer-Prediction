@@ -1,0 +1,2 @@
+# Breast-Cancer-Prediction
+Support Vector Machine(SVM) algorithm was able to classify tumors into Malignant/Benign with 97% accuracy. The technique can rapidly evaluate breast masses and classify them in automated fashion. I visualized the data by pair-plot,scatter-plot,count-plot and heatmap with the help of seaborn library. It can be further improved by combing computer vision/ML techniques to directly classify cancer using tissue images.
